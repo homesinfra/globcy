@@ -1,0 +1,29 @@
+
+[data-novi-id="5"]{
+  color: #1a4534;
+}
+[data-novi-id="4"]{
+  color: #2c4f4a;
+}
+[data-novi-id="3"]{
+  font-weight: 700;
+}
+[data-novi-id="2"]{
+  font-weight: 700;
+  text-transform: lowercase;
+}
+[data-novi-id="1"]{
+  font-weight: 700;
+  color: #fff;
+  text-transform: capitalize;
+}
+[data-novi-id="0"]{
+  color: #454545;
+  font-weight: 700;
+  font-weight: 700;
+}
+@media (max-width: 479px){
+[data-novi-id="1"]{
+  color: #fffff6;
+}
+}
